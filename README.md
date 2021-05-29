@@ -8,11 +8,11 @@ This project was written in C# and used SQL.
 
 #My Contributions
 My contribution to the project was the office system.
-*ClsOfficeCollections.cs
-*OfficeClasses.cs
-*OfficeTesting.cs
-*TstOfficeCollections.cs
-*DeleteOffice.aspx
-*OfficeView.aspx
-*OfficePage.aspx
-*OfficeList.aspx
+* ClsOfficeCollections.cs
+* OfficeClasses.cs
+* OfficeTesting.cs
+* TstOfficeCollections.cs
+* DeleteOffice.aspx
+* OfficeView.aspx
+* OfficePage.aspx
+* OfficeList.aspx
